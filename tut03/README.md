@@ -1,5 +1,5 @@
 
-    **Podcast Summary**
+**Podcast Summary**
 
 The shape up methodology is centered around pitches. Pitches are a potential feature or change to be implemented in sufficient detail that it can be implemented, but not so detailed that it constrains the design unnecessarily. The team responsible for implementing the pitch is also responsible for filling in the implementation as best fit, because improved methods reveal themselves during implementation. By leaving it at the correct amount of detail, the pitch is malleable, which ensures that it can be completed in a pre-allocated cycle.  
 
