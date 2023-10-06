@@ -10,3 +10,4 @@ Basic visuals for the implementation have also been added below
 ![import_button_placement](https://github.com/andre1048576/seg4105_playground/assets/55166043/559f6a32-86a1-4811-8942-35c7062e28f7)
 
 The expected csv template and how it maps to the existing project table has also been added below
+![csv_link](https://github.com/andre1048576/seg4105_playground/assets/55166043/d079ceaf-9cee-4438-a8f1-7c43772a2c94)
